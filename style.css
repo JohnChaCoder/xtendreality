@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+  }
+  p {
+    font-family: Helvetica;
+  }
+  h1 {
+    font-family: Helvetica;
+  }
+  h2 {
+    font-family: Helvetica;
+  }
+  h3 {
+    font-family: Helvetica;
+  }
+  h4 {
+    font-family: Helvetica;
+  }
+  h5 {
+    font-family: Helvetica;
+  }
+  h6 {
+    font-family: Helvetica;
+  }
+  .story {
+    font-family: Helvetica;
+  }
+  .buttons {
+    font-family: Helvetica;
+  }
+  .intro {
+    font-family: Helvetica;
+  }
+  .navbar {
+    font-style: italic;
+    font-family: Helvetica;
+    /*border-radius: 6px;*/
+    border-style: double;
+    margin: -1px;
+    background-color: rgb(255,255,255);
+  }
+  .copyright {
+    font-family: Tahoma;
+    font-weight: bold;
+    margin-bottom: -22px;
+    font-size: 11px;
+  }
