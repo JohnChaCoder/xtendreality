@@ -31,6 +31,9 @@ body {
   .intro {
     font-family: Helvetica;
   }
+  li {
+    font-family: Helvetica;
+  }
   .navbar {
     font-style: italic;
     font-family: Helvetica;
@@ -38,6 +41,12 @@ body {
     border-style: double;
     margin: -1px;
     background-color: rgb(255,255,255);
+  }
+  .citation {
+    margin-top: 0px;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: Tahoma;
   }
   .copyright {
     font-family: Tahoma;
