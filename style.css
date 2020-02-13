@@ -34,6 +34,10 @@ body {
   li {
     font-family: Helvetica;
   }
+  table, th, td {
+    border: 1px solid black;
+    font-family: Helvetica;
+  }
   .navbar {
     font-style: italic;
     font-family: Helvetica;
